@@ -37,3 +37,4 @@ The starting and ending locations look almost identical.  There is no need to wo
 ## Summary
 Overall, it seems as though citibikes are thriving in NYC.  In case our investors are still a little weary, I think a graph of age and frequency of use could be beneficial.  This would allow investors to assess how much the bikes will be used given the demographics of Des Moines.  I also would like to see a user type by age heat map.  Then we could forecast the amount of revenue we'd lock with subscribers given the age brackets of Des Moines
 
+[link to dashboard] (https://public.tableau.com/app/profile/nick3936/viz/bikesharingchallenge_16232649468190/BikeSharingStory)
