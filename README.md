@@ -34,4 +34,6 @@ Most of the starting locations are held in between Central Park and Lower Manhat
 ![image](https://user-images.githubusercontent.com/79211628/121734419-601a5b80-caba-11eb-9e44-169633527c30.png)
 The starting and ending locations look almost identical.  There is no need to worry about constant reallocation of bikes as the customers seem to naturally take care of it.
 
+## Summary
+Overall, it seems as though citibikes are thriving in NYC.  In case our investors are still a little weary, I think a graph of age and frequency of use could be beneficial.  This would allow investors to assess how much the bikes will be used given the demographics of Des Moines.  I also would like to see a user type by age heat map.  Then we could forecast the amount of revenue we'd lock with subscribers given the age brackets of Des Moines
 
