@@ -12,3 +12,17 @@ Looking at the graph above, we see that most rides only last five minutes.
 ### Checkout Time by Gender
 ![image](https://user-images.githubusercontent.com/79211628/121733491-2b59d480-cab9-11eb-88a6-a92b6f1dd1a2.png)
 When we break the users out by gender, we see that females and users with an unknown gender are more likely to have longer rides.
+
+### Trips By Weekday
+![image](https://user-images.githubusercontent.com/79211628/121733652-5fcd9080-cab9-11eb-9a96-382b55643eeb.png)
+Because the most popular times are 7/8 am and 5/6 pm on weekdays, we can assume the majority of trips are users biking to and from work.
+
+### Trips by Gender
+![image](https://user-images.githubusercontent.com/79211628/121733846-a1f6d200-cab9-11eb-9d1a-ca3145c6c0af.png)
+We still see the same workday commute pattern when we split the data out by gender.  People who didn't record their gender are more frequent users on the weekend.  Possibly because tourists (who are most likely to visit on a weekend) are also less likely to fill out their profiles with all of the information as they won't need a citi bike for long.
+
+### Trips by User
+![image](https://user-images.githubusercontent.com/79211628/121734026-d5d1f780-cab9-11eb-8036-e4f993efe3c2.png)
+When we look at customer vs subscriber, it further validates my hypothesis that tourists are less likely to fill out a profile.  Most customers have an unknown gender because they will only use a citi bike for the short time they are in the city.  Subscribers take the time to fill out a complete profile.
+
+### 
