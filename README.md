@@ -28,9 +28,10 @@ When we look at customer vs subscriber, it further validates my hypothesis that 
 
 ### Top Starting Locations
 ![image](https://user-images.githubusercontent.com/79211628/121734266-25b0be80-caba-11eb-991a-7e321ad573a6.png)
-
+Most of the starting locations are held in between Central Park and Lower Manhatten
 
 ### Top Ending Locations
 ![image](https://user-images.githubusercontent.com/79211628/121734419-601a5b80-caba-11eb-9e44-169633527c30.png)
+The starting and ending locations look almost identical.  There is no need to worry about constant reallocation of bikes as the customers seem to naturally take care of it.
 
 
