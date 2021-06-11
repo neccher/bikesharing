@@ -21,8 +21,16 @@ Because the most popular times are 7/8 am and 5/6 pm on weekdays, we can assume 
 ![image](https://user-images.githubusercontent.com/79211628/121733846-a1f6d200-cab9-11eb-9d1a-ca3145c6c0af.png)
 We still see the same workday commute pattern when we split the data out by gender.  People who didn't record their gender are more frequent users on the weekend.  Possibly because tourists (who are most likely to visit on a weekend) are also less likely to fill out their profiles with all of the information as they won't need a citi bike for long.
 
-### Trips by User
+### User Trips by Gender
 ![image](https://user-images.githubusercontent.com/79211628/121734026-d5d1f780-cab9-11eb-8036-e4f993efe3c2.png)
+
 When we look at customer vs subscriber, it further validates my hypothesis that tourists are less likely to fill out a profile.  Most customers have an unknown gender because they will only use a citi bike for the short time they are in the city.  Subscribers take the time to fill out a complete profile.
 
-### 
+### Top Starting Locations
+![image](https://user-images.githubusercontent.com/79211628/121734266-25b0be80-caba-11eb-991a-7e321ad573a6.png)
+
+
+### Top Ending Locations
+![image](https://user-images.githubusercontent.com/79211628/121734419-601a5b80-caba-11eb-9e44-169633527c30.png)
+
+
